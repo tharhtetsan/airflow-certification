@@ -10,7 +10,7 @@ Welcome to this repository! Here you'll find resources and tips that helped me p
 - For more information, refer to the [Astronomer exam guide](https://www.astronomer.io/docs/).
 
 ## Study Resources
-1. **Review DAGs:** Study all DAGs in the `test_codes` folder to understand practical implementations.
+1. **Review DAGs:** Study all DAGs in the [`test_codes`](https://github.com/tharhtetsan/airflow-certification/tree/main/test_codes/dags) folder to understand practical implementations.
 2. **Key Topics to Master:**
    - The Airflow UI
    - The Airflow CLI
@@ -24,7 +24,7 @@ Welcome to this repository! Here you'll find resources and tips that helped me p
    - Connection Basics
    - Variable Basics
    - Sensor Basics
-3. **Check Past Questions:** Reviewing old questions can provide valuable insight into the exam format and content.
+3. **Check Past Questions:** Reviewing [old questions](https://github.com/tharhtetsan/airflow-certification/tree/main/old_querstions) can provide valuable insight into the exam format and content.
 
 ## Good Luck!
 Wishing you the best of luck in your exam. You've got this!
